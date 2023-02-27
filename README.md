@@ -7,6 +7,7 @@
 - 🍡 Estudando: Linguagem C 
 - 🍮 Cursando: Análise e Desenvolvimento De Sistemas 
 - 💗 Pronomes: Ela/Dela
+- 🙆 Apenas uma estudan 
  
 ## Estudando no momento:
 ![ JavaScript ](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)  
